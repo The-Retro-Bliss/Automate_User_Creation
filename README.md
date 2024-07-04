@@ -23,9 +23,9 @@ For the first line, light is username and groups are sudo, dev, www-data
 To successfully run the create_users.sh script, follow these steps: 
 
 1. Ensure Root User Privileges:
-   Before executing the script, make sure you have root user privileges. This is necessary to create users, assign groups, and set permissions.\
+   Before executing the script, make sure you have root user privileges. This is necessary to create users, assign groups, and set permissions.
    
-2. The script uses the OpenSSL tool to generate secure, random passwords for new users, so ensure that OpenSSL is installed by running: \
+2. The script uses the OpenSSL tool to generate secure, random passwords for new users, so ensure that OpenSSL is installed by running: 
 
 From here, you can download the create_users.sh script and run it on your machine. Remember to run the text file as an argument. \
 
